@@ -12,4 +12,5 @@ Optional: User can use a slider for more flexibility in choosing tip percentage.
 Notes: spent some time fiddling with the slider to see if it is a valid solution. I like the flexibility of it, but it's slightly harder to use than the segmented control.
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](tipCalculatorDemo.gif)
